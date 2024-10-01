@@ -25,15 +25,15 @@ To run this bot, the following Python libraries are required:
 
 2. Install the required Python libraries:
 
-`pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
 3. Create a .env file in the root directory and add your Discord bot token:
 
-`TOKEN=your-discord-bot-token`
+    `TOKEN=your-discord-bot-token`
 
 4. Run the bot:
 
-`python main.py`
+    `python main.py`
 
 ## Bot Commands
 
